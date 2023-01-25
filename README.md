@@ -1,0 +1,2 @@
+# StalBot
+StalCraft telegram bot
